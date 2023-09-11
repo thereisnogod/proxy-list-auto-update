@@ -1,0 +1,50 @@
+1.4.159.237:3128::Thailand::Phra Nakhon Si Ayutthaya::Ayutthaya
+8.219.97.248:80::Singapore::None::None
+20.44.206.138:80::United States::None::None
+24.152.50.115:999::Dominican Republic::None::None
+24.152.50.118:999::Dominican Republic::None::None
+36.91.98.115:8181::Indonesia::Jakarta::Jakarta
+36.93.33.171:4480::Indonesia::None::None
+38.45.246.210:999::United States::None::None
+38.156.233.77:999::United States::None::None
+38.156.233.78:999::United States::None::None
+38.156.238.94:999::Dominican Republic::Nacional::Santo Domingo
+45.162.132.157:999::Chile::Santiago Metropolitan::Puente Alto
+45.169.92.151:999::Peru::Lima::Lima
+45.225.207.182:999::Chile::Santiago Metropolitan::Santiago
+45.225.207.183:999::Chile::Santiago Metropolitan::Santiago
+45.226.205.11:999::Ecuador::Provincia del Guayas::Guayaquil
+45.234.60.2:999::Venezuela::None::None
+64.225.8.142:10001::United States::Oregon::Klamath Falls
+67.43.227.227:19997::United Arab Emirates::Abu Dhabi::Abu Dhabi
+67.43.236.20:1885::Canada::Ontario::Huntsville
+67.43.236.20:21599::Malaysia::Kuala Lumpur::Kuala Lumpur
+88.255.101.229:8080::United States::None::None
+103.19.130.50:8080::Bangladesh::None::None
+103.48.68.35:83::India::Telangana::Hyderabad
+103.48.68.107:83::India::Telangana::Hyderabad
+103.83.179.78:2016::Indonesia::West Java::Bekasi
+103.153.63.136:3125::Indonesia::West Java::Bekasi
+103.154.230.123:5678::Indonesia::East Java::Brangsi
+103.156.71.86:8880::Indonesia::None::None
+103.159.195.221:8080::Indonesia::None::None
+103.159.196.215:1085::Indonesia::None::None
+103.166.197.34:3128::Indonesia::None::None
+103.184.180.233:8080::None::None::None
+106.11.226.232:8009::China::None::None
+107.181.230.227:3128::United States::None::None
+107.181.230.230:3128::United States::None::None
+138.59.9.37:8080::Venezuela::None::None
+144.76.42.215:8118::Romania::None::None
+154.70.107.81:3128::Cameroon::None::None
+170.238.200.33:999::Chile::Santiago Metropolitan::Paine
+181.78.19.249:999::Colombia::Departamento del Cesar::Valledupar
+181.209.95.12:999::Argentina::Corrientes::Corrientes
+190.97.232.197:999::Venezuela::None::None
+190.107.236.166:999::Ecuador::Provincia del Carchi::Tulcán
+190.107.236.177:999::Ecuador::Provincia del Carchi::Tulcán
+190.120.254.232:999::Venezuela::Carabobo::Valencia
+201.219.247.34:999::Colombia::Departamento del Cauca::Miranda
+206.161.97.64:31337::United States::None::None
+213.97.161.224:3128::Spain::Aragon::Zaragoza
+213.136.101.40:3128::Ivory Coast::Abidjan::Abidjan

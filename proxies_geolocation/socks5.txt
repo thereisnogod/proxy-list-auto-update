@@ -1,0 +1,37 @@
+46.0.203.140:4890::Russia::Samara Oblast::Samara
+64.227.108.25:31908::United States::California::Santa Clara
+67.213.212.36:36980::United States::Pennsylvania::Folsom
+70.35.199.99:50420::United States::None::None
+70.35.199.99:56282::United States::None::None
+70.35.199.99:56633::United States::None::None
+74.208.124.77:49805::United States::None::None
+80.90.188.187:24530::Russia::None::None
+89.58.60.100:63601::Germany::None::None
+91.121.48.221:38711::France::None::None
+94.72.61.46:1080::Russia::St.-Petersburg::St Petersburg
+103.83.159.225:8443::Singapore::None::None
+103.174.178.137:1020::None::None::None
+104.156.249.173:30158::United States::New Jersey::Piscataway
+104.248.225.143:24336::United States::New Jersey::North Bergen
+115.127.105.75:1088::Bangladesh::None::None
+116.97.240.147:4996::Vietnam::Hanoi::Hanoi
+124.78.140.65:1080::China::Shanghai::Shanghai
+134.122.43.203:56442::Canada::Ontario::Toronto
+141.94.161.174:8764::France::None::None
+157.245.139.82:49502::United States::New Jersey::North Bergen
+166.88.35.19:11098::United States::None::None
+167.71.250.32:6502::United States::New Jersey::Clifton
+167.71.250.32:15234::United States::New Jersey::Clifton
+174.138.176.78:22352::United States::Minnesota::Brainerd
+185.216.118.70:51080::Japan::Tokyo::Tokyo
+188.40.158.211:1088::Germany::None::None
+192.34.56.115:62904::United States::New Jersey::North Bergen
+192.241.149.84:37455::United States::New Jersey::North Bergen
+198.12.252.88:47692::United States::Virginia::Ashburn
+198.12.255.164:56684::United States::Virginia::Ashburn
+198.71.53.239:11396::United States::None::None
+198.71.53.239:13195::United States::None::None
+198.71.53.239:44245::United States::None::None
+207.244.254.30:25776::United States::Missouri::St Louis
+212.3.112.128:35860::Ukraine::Dnipropetrovsk Oblast::Dnipro
+212.83.138.172:11267::Ukraine::Odessa::Chornomors'k

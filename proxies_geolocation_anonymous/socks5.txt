@@ -1,0 +1,5 @@
+67.213.212.36:36980::United States::Pennsylvania::Folsom
+89.58.60.100:63601::Germany::None::None
+91.121.48.221:38711::France::None::None
+174.138.176.78:22352::United States::Minnesota::Brainerd
+212.83.138.172:11267::Ukraine::Odessa::Chornomors'k

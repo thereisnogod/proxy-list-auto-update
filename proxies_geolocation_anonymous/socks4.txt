@@ -1,0 +1,9 @@
+45.187.76.2:3629::Argentina::Entre Rios::La Paz
+89.58.45.94:38308::Italy::Tuscany::None
+89.58.45.94:38853::Italy::Calabria::Lamezia Terme
+118.174.143.38:4153::Thailand::Bangkok::Pom Prap Sattru Phai
+120.42.35.91:35010::China::Fujian::Haicang
+185.209.220.255:1080::Italy::Lombardy::Cernusco sul Naviglio
+190.97.239.170:1080::Venezuela::None::None
+190.216.56.1:4153::Argentina::None::None
+195.219.98.27:5678::Spain::Basque Country::Sondika

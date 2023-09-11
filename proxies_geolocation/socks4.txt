@@ -1,0 +1,70 @@
+5.42.87.164:56789::Russia::Moscow Oblast::Lukhovitsy
+36.92.81.181:4145::Indonesia::West Java::Bunijaya
+38.242.244.63:44376::United States::None::None
+41.174.104.111:33333::Mauritius::None::None
+45.187.76.2:3629::Argentina::Entre Rios::La Paz
+47.254.197.186:61161::Malaysia::Kuala Lumpur::Kuala Lumpur
+50.236.148.254:31699::United States::Florida::Cape Coral
+58.75.126.235:4145::South Korea::None::None
+60.190.195.146:10800::China::None::None
+62.122.201.246:50129::Ukraine::Ivano-Frankivsk Oblast::Ivano-Frankivsk
+70.35.199.99:56633::United States::None::None
+70.35.199.99:59648::United States::None::None
+74.208.124.77:49805::United States::None::None
+78.90.92.28:5678::Bulgaria::Sofia-Capital::Sofia
+81.16.1.71:5678::Armenia::None::None
+89.28.32.203:57391::Moldova::None::None
+89.58.45.94:38308::Italy::Tuscany::None
+89.58.45.94:38853::Italy::Calabria::Lamezia Terme
+91.203.114.71:42905::Ukraine::Kyiv Oblast::Ukrainka
+92.119.74.49:5678::Spain::Andalusia::None
+92.241.87.14:5678::Georgia::K'alak'i T'bilisi::K'alak'i T'bilisi
+95.143.8.182:50285::Russia::St.-Petersburg::St Petersburg
+100.1.53.24:5678::United States::New Jersey::Union City
+104.248.225.143:1352::United States::New Jersey::North Bergen
+109.248.236.150:9898::Kazakhstan::Qostanay Oblysy::Kostanay
+110.232.86.22:5678::Indonesia::North Sumatra::Medan
+118.174.143.38:4153::Thailand::Bangkok::Pom Prap Sattru Phai
+120.42.35.91:35010::China::Fujian::Haicang
+130.193.123.34:5678::Armenia::Yerevan::Yerevan
+137.74.173.77:47906::France::None::None
+146.56.178.93:1711::South Korea::Seoul::Seoul
+147.182.209.238:21944::United States::New Jersey::North Bergen
+154.79.248.156:5678::Kenya::None::None
+157.245.139.82:28427::United States::New Jersey::North Bergen
+159.192.121.240:4145::Thailand::Phuket::Mueang Phuket
+162.241.6.97:38342::United States::None::None
+164.90.209.242:12345::Germany::Hesse::Frankfurt am Main
+167.71.241.136:33299::United States::New Jersey::Clifton
+176.9.85.211:27930::Germany::None::None
+177.136.124.36:3629::Brazil::Bahia::Salvador
+178.151.134.232:5678::Ukraine::Kharkiv::Kharkiv
+178.215.163.218:4145::Ukraine::Dnipropetrovsk Oblast::Dnipro
+182.52.108.58:3629::Thailand::Rayong::Rayong
+185.2.100.97:41014::Germany::Bavaria::Munich
+185.43.189.182:3629::Azerbaijan::None::None
+185.82.126.227:8590::Latvia::None::None
+185.139.56.133:4145::Georgia::K'alak'i T'bilisi::Tbilisi
+185.209.220.255:1080::Italy::Lombardy::Cernusco sul Naviglio
+186.97.233.58:5678::Colombia::Antioquia::Medellín
+187.86.153.254:30660::Brazil::Rio Grande do Sul::Pelotas
+188.64.113.104:1080::Russia::Ryazan Oblast::Ryazan
+189.203.181.34:1080::Mexico::Oaxaca::Oaxaca City
+190.54.100.74:5678::Chile::Santiago Metropolitan::Santiago
+190.97.239.170:1080::Venezuela::None::None
+190.216.56.1:4153::Argentina::None::None
+195.138.65.34:5678::Ukraine::Odessa::Odessa
+195.219.98.27:5678::Spain::Basque Country::Sondika
+195.242.102.133:53346::Germany::None::None
+201.217.51.9:4145::Paraguay::Asuncion::Asunción
+202.43.73.121:4145::Indonesia::None::None
+202.43.182.3:4153::Indonesia::None::None
+202.141.242.3:55544::Pakistan::Punjab::Lahore
+207.154.232.84:52312::Germany::Hesse::Frankfurt am Main
+212.42.116.161:5678::Kyrgyzstan::None::None
+213.7.196.26:4153::Cyprus::Limassol District::Limassol
+213.32.252.134:5678::Iraq::Erbil::Erbil
+213.156.124.3:33333::Poland::Greater Poland::Poznan
+213.222.34.200:4145::Bulgaria::None::None
+218.75.69.50:56430::China::Zhejiang::Hangzhou
+222.188.105.190:10800::China::Beijing::Beijing
